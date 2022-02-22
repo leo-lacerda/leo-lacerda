@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on EDETEC Hub, LAPIN, Unifor, and Trampolim Tech.
-- 🌱  I’m currently learning Python, Dart, and Flutter.
+- 🔭  I’m currently working on [EDETEC Hub](https://www.unifor.br/web/pesquisa-inovacao/edetec), [Unifor](https://unifor.br), and [Trampolim Tech](https://desafiostartup.com).
+- 🌱  I’m currently learning Python, JavaScript, HTML, and CSS.
 - 👯  I’m looking to collaborate on social impact projects.
 
 <!--
