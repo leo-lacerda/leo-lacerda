@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm Leo Lacerda and this is my Data Science and Machine Learning repository. 🤓
 
