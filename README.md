@@ -1,6 +1,6 @@
 ### Hi there! 🙌🏻
 
-My name is Leo Lacerda and this is my AI & ML repository. 🤓
+My name is Leo Lacerda and this is my Data Science repository. 🤓
 
 - 🎓  I'm a Business Administrator, with a Master degree in Business Administration.
 - 👨🏻‍🏫  I’m currently working at [Unifor](https://unifor.br), as a Professor at management courses.
